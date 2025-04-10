@@ -13,11 +13,33 @@ I'm a passionate BCA student currently exploring the depths of full-stack web de
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, HTML, CSS, Java, C, C#
-- **Frameworks & Libraries:** React, Express, Tailwind CSS
-- **Tools & Platforms:** Firebase, Git, GitHub, MongoDB, Node.js
+#### 🚀 Languages
+<p>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
-> Currently learning **C#** to broaden my development toolkit.
+#### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+> 📚 Currently learning **C#** to broaden my development toolkit.
 
 ---
 
@@ -30,13 +52,19 @@ I'm a passionate BCA student currently exploring the depths of full-stack web de
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mejenish&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📊 GitHub Stats
 
 ![mejenish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mejenish&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mejenish&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mejenish&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mejenish&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
