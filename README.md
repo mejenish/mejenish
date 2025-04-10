@@ -54,8 +54,6 @@ I'm a passionate BCA student currently exploring the depths of full-stack web de
 
 ### 🏆 GitHub Trophies
 
-### 🏆 GitHub Trophies
-
 [![Trophy](https://github-profile-trophy.vercel.app/?username=mejenish&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
