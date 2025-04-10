@@ -1,7 +1,7 @@
 # Hi, I'm Jenish Bhandari 👋
 
 🎓 BCA Student | 💻 MERN Stack Developer  
-📍 Aloknagar, Kathmandu | 🌐 Username: `mejenish`
+📍 Aloknagar, Kathmandu
 
 ---
 
@@ -26,7 +26,7 @@ I'm a passionate BCA student currently exploring the depths of full-stack web de
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jenishbhandari31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenishbhandari)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mejenish)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/Jenish.bhandari_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jenish.bhandari_)
 
 ---
 
