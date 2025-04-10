@@ -54,7 +54,7 @@ I'm a passionate BCA student currently exploring the depths of full-stack web de
 
 ### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mejenish&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mejenish&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -64,7 +64,7 @@ I'm a passionate BCA student currently exploring the depths of full-stack web de
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mejenish&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mejenish&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mejenish&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
