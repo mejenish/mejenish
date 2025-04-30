@@ -45,7 +45,7 @@ I'm a passionate BCA student currently exploring the depths of full-stack web de
 
 ### 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jenishbhandari31@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jenishbhandari04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenishbhandari)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mejenish)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jenish.bhandari_)
@@ -63,12 +63,6 @@ I'm a passionate BCA student currently exploring the depths of full-stack web de
 ![mejenish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mejenish&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mejenish&layout=compact&theme=radical)
-
----
-
-### 📈 Activity Graph
-
-[![Jenish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mejenish&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
